@@ -1,0 +1,5 @@
+string1*Tiffany:'good morning!'
+string2*Tiffany:'How is your day?'
+string3*Tiffany:'What are you doing today?'
+string4*Tiffany:'See you again'
+string5*Tiffany:'good bye!'

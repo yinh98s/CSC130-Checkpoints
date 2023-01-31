@@ -1,0 +1,6 @@
+Art/f.png*f0
+Art/f.png*f0
+Art/mizu1.png*mizu0
+Art/mizu2.png*mizu1
+Art/mizu3.png*mizu2
+Art/mizu4.png*mizu3
